@@ -3,10 +3,10 @@
 
 return [
   'db' => [
-    'host' => 'localhost',
-    'user' => 'root',
-    'pass' => '',
-    'name' => 'prueba',
+    'host' => 'bwdbtmhxbumbfzcgxk9r-mysql.services.clever-cloud.com',
+    'user' => 'uhyhffzwak3dojfu',
+    'pass' => 'uhyhffzwak3dojfu',
+    'name' => 'bwdbtmhxbumbfzcgxk9r',
     'options' => [
       PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
     ]

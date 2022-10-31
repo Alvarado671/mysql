@@ -1,9 +1,9 @@
 <?php
 function conectar(){
-    $host="localhost";
-    $user="root";
-    $pass="";
-    $bd="prueba";
+    $host="bwdbtmhxbumbfzcgxk9r-mysql.services.clever-cloud.com";
+    $user="uhyhffzwak3dojfu";
+    $pass="uhyhffzwak3dojfu";
+    $bd="bwdbtmhxbumbfzcgxk9r";
 
     $con=mysqli_connect($host,$user,$pass);
 
